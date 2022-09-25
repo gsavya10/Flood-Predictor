@@ -25,3 +25,7 @@ The website will feature a user GUI which takes an input of location and date, w
 
 # Applications
 Using this website, we can predict floods that might hit the country in the future. By this method, we can prevent a lot of damages and loss of lives.
+
+![screencapture-127-0-0-1-5000-predict-2022-09-25-00_26_38](https://user-images.githubusercontent.com/46864533/192133045-8bad576b-08f4-410b-a3ce-bb48974e906a.png)
+![screencapture-127-0-0-1-5000-predict-2022-09-25-00_23_26](https://user-images.githubusercontent.com/46864533/192133047-2acc4957-da3a-46ca-917f-76641854a12b.png)
+
