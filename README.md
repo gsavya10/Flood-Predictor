@@ -14,3 +14,6 @@ Flooding occurs when an extreme volume of water is carried by rivers, creeks and
 
 # Applications
 Using this website, we can predict floods that might hit the country in the future. By this method, we can prevent a lot of damages and loss of lives.
+
+![screencapture-127-0-0-1-5000-predict-2022-09-25-00_26_38](https://user-images.githubusercontent.com/46864533/192132983-9c3cea94-945f-47d6-bedb-41de36e29612.png)
+![screencapture-127-0-0-1-5000-predict-2022-09-25-00_23_26](https://user-images.githubusercontent.com/46864533/192132988-f390f489-a2ea-4c11-b3c5-0cac216ba2b9.png)
